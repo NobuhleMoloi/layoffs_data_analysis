@@ -33,11 +33,12 @@ The analysis focuses on identifying patterns in layoffs across multiple dimensio
 - Stage: comparison between early-stage and late-stage companies
 
 ## Key Insights
-- Total layoffs and layoff percentages produce different company rankings, showing a difference between scale and severity of layoffs.
-- The United States and India account for the highest total layoffs in the dataset.
-- Finance, Retail, and Healthcare show higher average layoff percentages and higher shutdown counts compared to other industries.
-- Layoff activity is concentrated in specific periods, with clear peaks rather than a steady distribution over time.
-- Early-stage companies (Seed, Series A, Series B) show higher layoff percentages and more frequent shutdowns compared to later-stage companies.
+
+- Total layoffs and layoff percentages produce different company rankings, showing a clear distinction between absolute impact and workforce severity.
+- The United States and India account for the highest total layoffs, indicating that layoff activity is heavily concentrated in a small number of countries.
+- Finance, Retail, and Healthcare record both high average layoff percentages and high shutdown counts, making them the most consistently affected industries.
+- Layoffs are concentrated in specific periods rather than evenly distributed, with peak activity observed during 2020 and early 2023.
+- Early-stage companies (Seed, Series A, Series B) show higher layoff percentages and more frequent shutdowns compared to later-stage companies, indicating higher structural vulnerability.
 
 ## Limitations
 - The dataset includes only reported layoffs and may not represent all global events.
